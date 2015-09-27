@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NoteTaking</string>
+    <string name="title_activity_list">Current Notes</string>
+
+    <string name="main_title_str">Welcome to NoteTaking</string>
+    <string name="main_sidenote_str">Click the Button Below to Start</string>
+    <string name="main_button_str">Enter</string>
+
+    <string name="list_button_id">Add Note</string>
+
+    <string name="title_activity_add">Add Note</string>
+    <string name="add_note_title_str">Title</string>
+    <string name="add_note_hint_str">Place your note details here!</string>
+    <string name="add_button_str">Done</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
